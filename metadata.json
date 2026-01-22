@@ -1,0 +1,5 @@
+{
+  "name": "DocuStitch AI Generator",
+  "description": "An AI-powered tool that analyzes documentation websites via screenshots and generates custom Python automation scripts to crawl, capture, and merge all pages into a single PDF.",
+  "requestFramePermissions": []
+}
